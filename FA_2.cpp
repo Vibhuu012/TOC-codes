@@ -1,3 +1,6 @@
+Design a Finite Automata (FA) that accepts all strings over S={0, 1} having either exactly two 1's or 
+exactly three 1's, not more nor less. Write a program to simulate this FA.
+
 #include <iostream>
 using namespace std;
 
