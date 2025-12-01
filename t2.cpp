@@ -1,3 +1,5 @@
+//Design and simulate a Turing Machine which will increment the given binary number by 1.
+
 #include <iostream>
 #include <vector>
 #include <string>
@@ -86,3 +88,4 @@ int main() {
     }
     return 0;
 }
+
